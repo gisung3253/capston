@@ -5,7 +5,7 @@ const path = require('path');
 const timetableData = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/timetable_data.json'), 'utf8'));
 
 // 시간표가 겹치는지 확인하는 함수
-function isOverlap(times1, times2) { 
+function isOverlap(times1, times2) {
     for (const time1 of times1) {
         for (const time2 of times2) {
             if (
@@ -19,7 +19,23 @@ function isOverlap(times1, times2) {
     return false;
 }
 
-// 추천 과목을 기반으로 항상 3개 시간표 조합 생성
+// 각 시간표를 시간 단위 배열로 변환하는 함수
+function convertTimetableToSlots(timetable) {
+    const slots = [];
+    timetable.forEach(subject => {
+        subject.times.forEach(time => {
+            const startHour = parseInt(time.startTime.split(':')[0], 10);
+            const endHour = parseInt(time.endTime.split(':')[0], 10);
+
+            for (let hour = startHour; hour < endHour; hour++) {
+                slots.push({ day: time.day, time: hour, title: subject.name });
+            }
+        });
+    });
+    return slots;
+}
+
+// 추천 과목을 기반으로 시간표 조합 생성
 function generateTimetables(req, res) {
     const { subjects } = req.body;
 
@@ -28,7 +44,6 @@ function generateTimetables(req, res) {
         (item) => subjects.includes(item.name)
     );
 
-    // 전공 필수와 선택 과목 구분
     const majorSubjects = filteredSubjects.filter(subj => subj.weight === 3);
     const otherSubjects = filteredSubjects.filter(subj => subj.weight < 3);
 
@@ -40,12 +55,11 @@ function generateTimetables(req, res) {
     while (timetables.length < 3) {
         for (const majors of majorCombinations) {
             let selectedSubjects = [...majors];
-            const addedSubjectNames = new Set(majors.map(subject => subject.name)); // 이미 추가된 과목 이름 추적
-
+            const addedSubjectNames = new Set(majors.map(subject => subject.name));
             const shuffledOthers = shuffleArray(otherSubjects);
 
             for (const subj of shuffledOthers) {
-                if (addedSubjectNames.has(subj.name)) continue; // 이미 추가된 과목 이름은 건너뜀
+                if (addedSubjectNames.has(subj.name)) continue;
 
                 let overlap = false;
                 for (const selected of selectedSubjects) {
@@ -57,26 +71,27 @@ function generateTimetables(req, res) {
 
                 if (!overlap) {
                     selectedSubjects.push(subj);
-                    addedSubjectNames.add(subj.name); // 새로 추가된 과목 이름을 추가
+                    addedSubjectNames.add(subj.name);
                 }
             }
 
             timetables.push(selectedSubjects);
-
-            // 3개의 시간표 조합이 만들어졌다면 루프 종료
             if (timetables.length >= 3) break;
         }
     }
 
-    // 3가지 시간표 조합을 출력
-    timetables.slice(0, 3).forEach((timetable, index) => {
+    // 각 시간표 옵션을 시간 단위 배열로 변환
+    const convertedTimetables = timetables.map(timetable => convertTimetableToSlots(timetable));
+
+    // 로그에 출력
+    convertedTimetables.forEach((timetable, index) => {
         console.log(`\n시간표 옵션 ${index + 1}:`);
-        timetable.forEach(subject => {
-            console.log(`${subject.name}: ${subject.times.map(time => `${time.day} ${time.startTime}-${time.endTime}`).join(', ')}`);
+        timetable.forEach(slot => {
+            console.log(`Day: ${slot.day}, Time: ${slot.time}, Title: ${slot.title}`);
         });
     });
 
-    res.status(200).json({ message: '추천 시간표 조합이 성공적으로 생성되었습니다.' });
+    res.status(200).json({ timetables: convertedTimetables });
 }
 
 // 전공 필수 조합 생성 함수
@@ -107,6 +122,7 @@ function getMajorCombinations(majorSubjects) {
 
         helper(selected, index + 1);
     }
+
     helper([], 0);
     return combinations.filter(combo => combo.length > 0);
 }
