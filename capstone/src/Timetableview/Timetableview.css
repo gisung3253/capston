@@ -1,0 +1,110 @@
+.timetableview-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.timetableview-header {
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vh 0;
+    position: relative;
+}
+
+.timetableview-close-btn {
+    font-size: 5vh;
+    background: none;
+    border: none;
+    color: #333;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+}
+
+.timetableview-title {
+    font-size: 2vh;
+    color: #ffffff;
+    background-color: #1e6bb8;
+    padding: 0.5vh 23vw;
+    border-radius: 2.5vh;
+    text-align: center;
+}
+
+.timetableview-pdf-save-btn {
+    font-size: 1.2vh;
+    color: #ffffff;
+    background-color: rgba(68, 94, 180, 0.8);
+    padding: 0.8vh 1.5vw;
+    border-radius: 2.5vh;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: -1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timetableview-content {
+    width: 90vw;
+    height: 80vh;
+    background-color: rgba(68, 94, 180, 0.8);
+    border-radius: 0.5vh;
+    margin-top: 1vh;
+    overflow-y: auto;
+    padding: 2vh;
+}
+
+/* 시간표 그리드 스타일 */
+.timetablelist-grid {
+    display: grid;
+    grid-template-columns: 1fr repeat(6, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 0.1vw;
+    background-color: #ccc;
+    width: 100%;
+    height: 100%;
+}
+
+.timetablelist-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vh;
+    font-size: 1.7vh;
+    border: 0.1vw solid #ccc;
+    text-align: center;
+}
+
+.timetablelist-time-slot {
+    background-color: #ffffff;
+    text-align: right;
+    border: 0.1vw solid #ccc;
+    padding-right: 0.5vw;
+    font-size: 1.5vh;
+}
+
+.timetablelist-class-cell {
+    background-color: #445Eb4;
+    color: #ffffff;
+    text-align: center;
+    padding: 0.5vh;
+    border: 0.1vw solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.timetablelist-class-cell span {
+    display: block;
+    margin: 0.2vh 0;
+    font-size: 1.2vh;
+}

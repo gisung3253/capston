@@ -1,0 +1,121 @@
+/* 시간표 리스트 컨테이너 */
+.timetablelist-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vw;
+}
+
+/* 시간표 제목 스타일 */
+.timetablelist-title {
+    font-size: 2vw;
+    color: #ffffff;
+    background-color: #1e6bb8;
+    padding: 1vw 7vw;
+    border-radius: 2.5vw;
+    margin-bottom: 2vw;
+    text-align: center;
+    width: 80vw;
+    max-width: 100vw;
+    margin-top: 5%;
+}
+
+/* 시간표 버튼 스타일 */
+.timetablelist-button {
+    font-size: 1.2vw;
+    color: #ffffff;
+    background-color: #1e6bb8;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5vw 3vw;
+    border-radius: 2.5vw;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin-bottom: 1.5vw;
+}
+
+.timetablelist-button:hover {
+    background-color: #154a8a;
+    transform: scale(1.05);
+}
+
+/* 카드와 라벨을 함께 감싸는 세트 스타일 */
+.timetablelist-option-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+/* 카드 스타일 */
+.timetablelist-options {
+    display: flex;
+    gap: 1vw;
+    justify-content: center;
+    width: 100vw;
+}
+
+.timetablelist-option {
+    width: 28vw;
+    height: 65vh;
+    border: 1px solid #ccc;
+    border-radius: 0.5vw;
+    position: relative;
+    background-color: #f8f8f8;
+    transition: transform 0.3s ease;
+    overflow-y: auto;
+    padding: 5px;
+}
+
+/* 구분선 스타일 */
+.timetablelist-divider {
+    width: 1px;
+    background-color: #3f3f3f;
+    height: 75vh;
+    margin: 0 1vw;
+}
+
+/* 시간표 그리드 스타일 */
+.timetablelist-grid {
+    display: grid;
+    grid-template-columns: 1fr repeat(6, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 1px;
+    background-color: #ccc;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.timetablelist-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5vw;
+    border: 1px solid #ccc;
+}
+
+.timetablelist-time-slot {
+    background-color: #ffffff;
+    text-align: right;
+    border: 1px solid #ccc;
+    padding-right: 0.5vw;
+}
+
+.timetablelist-class-cell {
+    background-color: #445Eb4;
+    color: #ffffff;
+    text-align: center;
+    padding: 0.5vw;
+    border: 1px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.timetablelist-class-cell span {
+    display: block;
+    margin: 0.2vw 0;
+    font-size: 0.8rem;
+}
