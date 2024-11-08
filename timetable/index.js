@@ -8,9 +8,11 @@ const port = 8000;
 app.use(cors()); 
 app.use(express.json());
 
-// recommend 라우터 설정
+// 라우터 설정
 const recommendRouter = require('./routes/recommend_router');
+const timetableRouter = require('./routes/timetable_router');
 app.use('/recommend', recommendRouter);
+app.use('/timetable', timetableRouter);
 
 // 루트 경로 설정
 app.get('/', (req, res) => {

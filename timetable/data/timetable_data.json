@@ -1,0 +1,2247 @@
+{
+    "20272-02": {
+        "name": "자바프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "수",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20272-03": {
+        "name": "자바프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "수",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20613-01": {
+        "name": "C++프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20613-02": {
+        "name": "C++프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20613-03": {
+        "name": "C++프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "22017-01": {
+        "name": "컴퓨터구조",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "목",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "22017-02": {
+        "name": "컴퓨터구조",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "22892-01": {
+        "name": "디지털영상처리",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "14:00",
+                "endTime": "15:15"
+            },
+            {
+                "day": "목",
+                "startTime": "10:00",
+                "endTime": "11:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "24288-01": {
+        "name": "데이터베이스프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": "수",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "24288-02": {
+        "name": "데이터베이스프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": "수",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32821-01": {
+        "name": "WEB PAGE CONSTRUCTION(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "금",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32822-01": {
+        "name": "데이터통신",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32822-02": {
+        "name": "데이터통신",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32824-01": {
+        "name": "자료구조(2)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32824-02": {
+        "name": "자료구조(2)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32824-03": {
+        "name": "자료구조(2)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "33293-01": {
+        "name": "JAVA PROGRAMMING(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "수",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34412-01": {
+        "name": "컴퓨터공학캡스톤디자인(1)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:30",
+                "endTime": "16:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34412-02": {
+        "name": "컴퓨터공학캡스톤디자인(1)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:30",
+                "endTime": "16:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34412-03": {
+        "name": "컴퓨터공학캡스톤디자인(1)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:30",
+                "endTime": "16:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34412-04": {
+        "name": "컴퓨터공학캡스톤디자인(1)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:30",
+                "endTime": "16:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "37013-01": {
+        "name": "컴퓨터(정보)교육론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "금",
+                "startTime": "15:00",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "38323-01": {
+        "name": "실감응용인공지능",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "41180-01": {
+        "name": "프로그래밍기초",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "금",
+                "startTime": "13:00",
+                "endTime": "14:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "42446-01": {
+        "name": "자동차인공지능",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "44630-01": {
+        "name": "수학기반인공지능프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20272-04": {
+        "name": "자바프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "금",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "20613-04": {
+        "name": "C++프로그래밍",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "20613-05": {
+        "name": "C++프로그래밍",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "목",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "20923-01": {
+        "name": "데이타베이스",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "24541-01": {
+        "name": "게임인공지능",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "24541-02": {
+        "name": "게임인공지능",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "금",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "24692-01": {
+        "name": "기초게임프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": "수",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "26428-01": {
+        "name": "COMPUTER GRAPHICS I(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "26428-02": {
+        "name": "COMPUTER GRAPHICS I(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "29707-01": {
+        "name": "게임디자인",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "34846-01": {
+        "name": "인간과컴퓨터상호작용",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "41179-01": {
+        "name": "전산수학",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "42168-01": {
+        "name": "게임서버프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": "목",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "42168-02": {
+        "name": "게임서버프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": "목",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "43302-01": {
+        "name": "게임엔진기초",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "15:20"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "43302-02": {
+        "name": "게임엔진기초",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "15:20"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44363-01": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(1)(영어강의)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44363-02": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(1)(영어강의)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44363-03": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(1)(영어강의)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44367-01": {
+        "name": "고급게임엔진",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            },
+            {
+                "day": "목",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "11875-01": {
+        "name": "국토및지역계획",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "12323-01": {
+        "name": "도시계획사",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "28164-01": {
+        "name": "도시공간구조론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "33826-02": {
+        "name": "기초설계및실습",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "15:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": "목",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "33826-03": {
+        "name": "기초설계및실습",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "15:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": "목",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "38342-01": {
+        "name": "도시계획학캡스톤디자인(2)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "38343-01": {
+        "name": "도시계획학캡스톤디자인(1)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "39776-01": {
+        "name": "CLIMATE CHANGE IN URBAN DESIGN(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "42066-01": {
+        "name": "부동산시장론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44447-01": {
+        "name": "도시디지털분석기초",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": "목",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44447-02": {
+        "name": "도시디지털분석기초",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": "금",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44450-01": {
+        "name": "도시형태디자인",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": "수",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44454-01": {
+        "name": "GIS기초및실습",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44457-01": {
+        "name": "도시공간분석응용",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "15:00",
+                "endTime": "18:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44470-01": {
+        "name": "주거정책및계획",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "12147-03": {
+        "name": "논리회로",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "12147-04": {
+        "name": "논리회로",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "14015-03": {
+        "name": "상업정보교재연구및지도법",
+        "weight": 2,
+        "times": [
+            {
+                "day": "금",
+                "startTime": "13:00",
+                "endTime": "16:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "14551-01": {
+        "name": "소프트웨어공학",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "16003-01": {
+        "name": "이산수학",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "16003-02": {
+        "name": "이산수학",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "17735-01": {
+        "name": "컴퓨터네트워크",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "17735-02": {
+        "name": "컴퓨터네트워크",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            },
+            {
+                "day": "수",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20616-01": {
+        "name": "C프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "18:20"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "15:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20616-02": {
+        "name": "C프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "18:20"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "15:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20616-03": {
+        "name": "C프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "18:20"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "15:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "20923-02": {
+        "name": "데이타베이스",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "21598-01": {
+        "name": "운영체제",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            },
+            {
+                "day": "수",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "21598-02": {
+        "name": "운영체제",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "25500-01": {
+        "name": "컴퓨터개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "25500-02": {
+        "name": "컴퓨터개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "25500-03": {
+        "name": "컴퓨터개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "25502-01": {
+        "name": "컴퓨터공학창의설계",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "27760-03": {
+        "name": "상업정보논리및논술",
+        "weight": 2,
+        "times": [
+            {
+                "day": "금",
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "31960-28": {
+        "name": "대학생활과진로설계",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "31960-29": {
+        "name": "대학생활과진로설계",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32823-01": {
+        "name": "자료구조(1)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32823-02": {
+        "name": "자료구조(1)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32823-03": {
+        "name": "자료구조(1)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "32823-04": {
+        "name": "자료구조(1)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "33290-01": {
+        "name": "INTRODUCTION TO OBJECT ORIENTED PROGRAMMING(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "금",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34981-01": {
+        "name": "컴퓨터공학캡스톤디자인(2)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "17:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34981-02": {
+        "name": "컴퓨터공학캡스톤디자인(2)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "17:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34981-03": {
+        "name": "컴퓨터공학캡스톤디자인(2)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "17:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "34981-04": {
+        "name": "컴퓨터공학캡스톤디자인(2)",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "17:20"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "42447-01": {
+        "name": "차량비전시스템",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "44634-01": {
+        "name": "알고리즘",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "44634-02": {
+        "name": "알고리즘",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "컴퓨터공학과"
+    },
+    "10708-01": {
+        "name": "객체지향프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "15:00",
+                "endTime": "16:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "10708-02": {
+        "name": "객체지향프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": "목",
+                "startTime": "16:00",
+                "endTime": "17:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "20616-04": {
+        "name": "C프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": "목",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "20616-05": {
+        "name": "C프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "18:20"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "12:20"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "21598-03": {
+        "name": "운영체제",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "21760-01": {
+        "name": "자료구조",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "24538-01": {
+        "name": "게임알고리즘",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "26436-01": {
+        "name": "COMPUTER GRAPHICS II(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "26436-02": {
+        "name": "COMPUTER GRAPHICS II(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            },
+            {
+                "day": "목",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "29704-01": {
+        "name": "게임학기초",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "31960-30": {
+        "name": "대학생활과진로설계",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "32828-01": {
+        "name": "3D GAME APPLICATIONS(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "금",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "38352-01": {
+        "name": "실감피지컬컴퓨팅",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "금",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "43300-01": {
+        "name": "VR/AR게임프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "43300-02": {
+        "name": "VR/AR게임프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "금",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "43316-01": {
+        "name": "게임프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:00",
+                "endTime": "13:50"
+            },
+            {
+                "day": "금",
+                "startTime": "10:30",
+                "endTime": "12:20"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44364-01": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(2)(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44364-02": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(2)(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44364-03": {
+        "name": "GAME PROJECT CAPSTONE DESIGN(2)(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "수",
+                "startTime": "10:30",
+                "endTime": "13:15"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "44365-01": {
+        "name": "UI/UX프로그래밍",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "금",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "게임소프트웨어학과"
+    },
+    "11596-01": {
+        "name": "교통공학론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "20817-01": {
+        "name": "교통경제분석",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "20994-01": {
+        "name": "디지털디자인",
+        "weight": 2,
+        "times": [
+            {
+                "day": "금",
+                "startTime": "09:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "28084-01": {
+        "name": "교통용량분석",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "28088-01": {
+        "name": "교통체계운영및관리",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "31960-32": {
+        "name": "대학생활과진로설계",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "33753-01": {
+        "name": "도시와환경",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            },
+            {
+                "day": "목",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "40920-01": {
+        "name": "지능형교통시스템개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "41649-01": {
+        "name": "교통공학캡스톤디자인",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "42493-01": {
+        "name": "QUANTITATIVE METHODS(1)(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "44506-01": {
+        "name": "교통인프라및네트워크분석",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "44509-01": {
+        "name": "교통사고조사분석실무",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "44546-01": {
+        "name": "교통공학기초",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            },
+            {
+                "day": "목",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            }
+        ],
+        "department": "교통공학과"
+    },
+    "12316-01": {
+        "name": "도시계획개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "17889-01": {
+        "name": "토지이용계획",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "28158-01": {
+        "name": "도시계획관련법규",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            },
+            {
+                "day": "목",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "31960-33": {
+        "name": "대학생활과진로설계",
+        "weight": 3,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "33753-02": {
+        "name": "도시와환경",
+        "weight": 3,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "15:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": "수",
+                "startTime": "15:00",
+                "endTime": "16:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "36787-01": {
+        "name": "SPACE BUSINESS MODEL(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "수",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "39775-01": {
+        "name": "URBAN DESIGN STRATEGY(영어강의)",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": "목",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "39849-01": {
+        "name": "도시기초통계학",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "목",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "41053-01": {
+        "name": "스마트시티",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "15:00",
+                "endTime": "16:15"
+            },
+            {
+                "day": "목",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "41054-01": {
+        "name": "스마트도시교통",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "금",
+                "startTime": "10:30",
+                "endTime": "11:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "41057-01": {
+        "name": "저성장시대도시관리",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "13:30",
+                "endTime": "14:45"
+            },
+            {
+                "day": "수",
+                "startTime": "09:00",
+                "endTime": "10:15"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "42068-01": {
+        "name": "부동산개론",
+        "weight": 2,
+        "times": [
+            {
+                "day": "월",
+                "startTime": "12:00",
+                "endTime": "13:15"
+            },
+            {
+                "day": "수",
+                "startTime": "16:30",
+                "endTime": "17:45"
+            }
+        ],
+        "department": "도시계획학과"
+    },
+    "44453-01": {
+        "name": "단지계획및실습",
+        "weight": 2,
+        "times": [
+            {
+                "day": "화",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": "목",
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ],
+        "department": "도시계획학과"
+    }
+}
